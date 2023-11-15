@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:mobile_inventory/home.dart';
+import 'package:mobile_inventory/screens/home.dart';
 
 
 void main() {
